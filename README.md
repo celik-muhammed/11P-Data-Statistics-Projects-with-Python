@@ -18,7 +18,7 @@
 <tbody>
 <tr>
   <td>
-    <a href="#">01. Statistics</a>
+<!--     <a href="#">01. Statistics</a> -->
   </td>
 </tr>
 </tbody>
