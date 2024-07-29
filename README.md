@@ -29,7 +29,11 @@
 </table>
 
 
-<div align='center'><img src='https://images.squarespace-cdn.com/content/v1/64c4f5cffc1a5952f996c322/9bf085ec-4546-476c-b132-02705ed9adff/p-value.png'></div>
+<div align='center'>
+  <img src='https://machinelearningmastery.com/wp-content/uploads/2019/11/How-to-Choose-Feature-Selection-Methods-For-Machine-Learning.png'></div>
+
+<div align='center'>
+  <img src='https://images.squarespace-cdn.com/content/v1/64c4f5cffc1a5952f996c322/9bf085ec-4546-476c-b132-02705ed9adff/p-value.png'></div>
 
 
 
@@ -152,4 +156,5 @@ else:
 
 > There are various distribution but the major distribution used in data science are :
 >> [Statistical Distributions](https://mathworld.wolfram.com/topics/StatisticalDistributions.html)<br>
->> [Family of Distribution](http://www.machineintellegence.com/distributions/)
+>> [Family of Distribution](http://www.machineintellegence.com/distributions/)<br>
+>> https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/
